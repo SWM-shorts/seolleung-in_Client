@@ -15,5 +15,6 @@ getAllRestaurants() async {
   return allData;
 }
 
+// 궁금한 점, 고민해야 할 점
 // 1. 1만원 대 미만과 1만원 대 초과가 동시에 있을 수 있는가
 // 2. 영업중에 대한 처리를 어떻게 할 것인가
